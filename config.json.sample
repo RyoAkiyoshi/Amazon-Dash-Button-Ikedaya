@@ -1,0 +1,11 @@
+{
+    "device": {
+        "macaddress": "68:54:fd:66:10:d8"
+    },
+    "twitter":{
+        "consumer_key": "",
+        "consumer_secret": "",
+        "access_token_key": "",
+        "access_token_secret": ""
+    }
+}
