@@ -1,4 +1,4 @@
-#Requirement
+#Requirements
 - python-twitter
 `$ pip install python-twitter`
 - Amazon Dash ButtonのMACアドレス
